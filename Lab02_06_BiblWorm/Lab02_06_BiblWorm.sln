@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02_06_BiblWorm", "Lab02_06_BiblWorm.csproj", "{E92E6C33-68C9-46EC-9E2F-50CAF20D3117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E92E6C33-68C9-46EC-9E2F-50CAF20D3117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92E6C33-68C9-46EC-9E2F-50CAF20D3117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92E6C33-68C9-46EC-9E2F-50CAF20D3117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92E6C33-68C9-46EC-9E2F-50CAF20D3117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83C465EA-69E0-4192-884F-62245AFE97E9}
+	EndGlobalSection
+EndGlobal
